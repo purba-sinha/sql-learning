@@ -8,11 +8,17 @@ Currently working through SQLZoo.
 - [x] WHERE, BETWEEN, LIKE
 - [x] IN, OR, XOR
 - [x] ROUND, LENGTH, LEFT functions
+- [x] AS, DISTINCT, ORDER BY (ASC/DESC)
+- [x] GROUP BY
+- [x] Subqueries (SELECT within SELECT)
+- [x] Correlated Subqueries
+- [x] ALL keyword
 
 ## Currently Learning
-- Aggregate functions (SUM, COUNT, AVG)
-- GROUP BY
+- JOIN operations
+- SUM, COUNT, AVG
 
 ## Resources
 - SQLZoo
 - HackerRank SQL
+
