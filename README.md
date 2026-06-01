@@ -21,4 +21,8 @@ Currently working through SQLZoo.
 ## Resources
 - SQLZoo
 - HackerRank SQL
+## Day 3 - Revision
+- Revised all topics covered so far
+- SELECT, WHERE, GROUP BY, Subqueries, 
+  Correlated Subqueries, ORDER BY, DISTINCT
 
