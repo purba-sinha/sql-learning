@@ -17,7 +17,6 @@ Currently working through SQLZoo.
 
 ## Currently Learning
 - JOIN operations
-- SUM, COUNT, AVG
 
 ## Resources
 - SQLZoo
