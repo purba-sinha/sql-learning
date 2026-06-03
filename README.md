@@ -32,3 +32,15 @@ Currently working through SQLZoo.
 * Mastered the `HAVING` clause to filter grouped data where `WHERE` can't be used.
 * Practiced advanced Correlated Subqueries by aliasing the same table (`c1`, `c2`) to perform row-by-row population comparisons within the same continent.
 
+☑ SUM, COUNT, AVG functions
+☑ Pattern Matching / Wildcards (`%`)
+
+## Day 5 - Aggregate Functions & Wildcard Searching
+
+* **Quizzes Completed**: Knocked out 2 SQL quizzes to test my understanding of foundational concepts and subqueries.
+* **Basic Aggregations**: Mastered how to use `SUM()`, `COUNT()`, and `AVG()` to calculate totals, tallies, and averages across datasets.
+* **Wildcard Filtering (`%`)**: Learned how to use the `LIKE` operator with the `%` wildcard to search for flexible text patterns:
+  * `LIKE 'A%'` – Finds values starting with "A".
+  * `LIKE '%a'` – Finds values ending with "a".
+  * `LIKE '%a%'` – Finds values containing "a" anywhere in the string.
+
