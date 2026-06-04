@@ -45,3 +45,16 @@ Currently working through SQLZoo.
   * `LIKE '%a'` – Finds values ending with "a".
   * `LIKE '%a%'` – Finds values containing "a" anywhere in the string.
 
+☑ JOIN operations & the `ON` clause
+
+## ⏳ Currently Learning
+* Types of JOINs (LEFT, RIGHT, FULL OUTER)
+* Database normalization and primary/foreign keys
+
+## Day 6 - Relational Databases & JOIN Operations
+
+* **The Power of Relational Data**: Learned why databases split data into multiple tables to avoid duplication, and how `JOIN` links them back together.
+* **The `JOIN` Syntax**: Mastered combining rows from two or more tables based on a related column between them.
+* **The `ON` Clause**: Learned how to specify the exact matching condition (usually linking a Primary Key to a Foreign Key) to stitch the tables together properly.
+  * *Example structure:* `FROM TableA JOIN TableB ON TableA.id = TableB.a_id`
+
