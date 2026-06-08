@@ -58,3 +58,9 @@ Currently working through SQLZoo.
 * **The `ON` Clause**: Learned how to specify the exact matching condition (usually linking a Primary Key to a Foreign Key) to stitch the tables together properly.
   * *Example structure:* `FROM TableA JOIN TableB ON TableA.id = TableB.a_id`
 
+## Day 7 - Revision & Consolidation
+
+* **Focus**: Paused new topics to solidify concepts from the past week.
+* **Review Scope**: Re-practiced writing queries using basic filters (`LIKE`, `%`), aggregations, and nested subqueries.
+
+
