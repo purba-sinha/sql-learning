@@ -63,4 +63,11 @@ Currently working through SQLZoo.
 * **Focus**: Paused new topics to solidify concepts from the past week.
 * **Review Scope**: Re-practiced writing queries using basic filters (`LIKE`, `%`), aggregations, and nested subqueries.
 
+### Day 8: Joins, Nulls & Numeric Operations
+
+* **Joins:** Mastered `INNER`, `LEFT`, `RIGHT`, and `FULL` joins to merge relational tables.
+* **Null Handling:** Used `IS NULL` / `IS NOT NULL` and `COALESCE()` to handle missing data.
+* **Numeric Functions:** Applied mathematical operations and rounding to format raw data.
+
+#### 
 
