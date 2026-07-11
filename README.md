@@ -76,3 +76,6 @@ Currently working through SQLZoo.
 - Window functions perform calculations across rows without collapsing the result set.
 - Difference between RANK() and DENSE_RANK().
 - Running totals using SUM() OVER().
+
+# Day 10
+Learned aggregate functions — COUNT, SUM, AVG, MIN, MAX — along with GROUP BY and HAVING to filter grouped results. 
