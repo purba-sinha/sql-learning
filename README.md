@@ -79,3 +79,5 @@ Currently working through SQLZoo.
 
 # Day 10
 Learned aggregate functions — COUNT, SUM, AVG, MIN, MAX — along with GROUP BY and HAVING to filter grouped results. 
+
+Covered all types of joins — INNER, LEFT, RIGHT, FULL OUTER, and self joins — plus subqueries (nested and correlated) for multi-step queries.
