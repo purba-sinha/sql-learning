@@ -82,3 +82,6 @@ Learned aggregate functions — COUNT, SUM, AVG, MIN, MAX — along with GROUP B
 
 # Day 11
 Covered all types of joins — INNER, LEFT, RIGHT, FULL OUTER, and self joins — plus subqueries (nested and correlated) for multi-step queries.
+
+# Day 12
+covered about subqueries, correlated subqueries, nested queries, common table expressions CTEs
