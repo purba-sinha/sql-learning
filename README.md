@@ -68,10 +68,9 @@ Currently working through SQLZoo.
 * **Joins:** Mastered `INNER`, `LEFT`, `RIGHT`, and `FULL` joins to merge relational tables.
 * **Null Handling:** Used `IS NULL` / `IS NOT NULL` and `COALESCE()` to handle missing data.
 * **Numeric Functions:** Applied mathematical operations and rounding to format raw data.
-*
-*
-* # Day 9
 * 
+* # Day 9
+  
 - Numeric functions help manipulate and format numbers.
 - Window functions perform calculations across rows without collapsing the result set.
 - Difference between RANK() and DENSE_RANK().
@@ -85,3 +84,11 @@ Covered all types of joins â€” INNER, LEFT, RIGHT, FULL OUTER, and self joins â€
 
 # Day 12
 covered about subqueries, correlated subqueries, nested queries, common table expressions CTEs
+ # Day 13
+ [Brazilian E-Commerce Public Dataset by Olist] - SQL Practice
+ **Source:** [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
+
+ **Concepts practiced:**
+ - [JOINS (INNER, LEFT)]
+ - [Subqueries / Window functions]
+ 
