@@ -93,4 +93,11 @@ covered about subqueries, correlated subqueries, nested queries, common table ex
  - [Subqueries / Window functions]
  
 # Day 14
-today's focus wason SQL JOIN operations. Practiced writing queries using INNER JOIN, Left JOIN, RIGHT JOIN, and FULL OUTER JOIN to retrieve and combine data from multiple related tables. Completed several practice problems to stengthen understanding of relational database concepts.
+today's focus was on SQL JOIN operations. Practiced writing queries using INNER JOIN, Left JOIN, RIGHT JOIN, and FULL OUTER JOIN to retrieve and combine data from multiple related tables. Completed several practice problems to stengthen understanding of relational database concepts.
+
+# Day 15
+- Retrieved data from multiple related tables.
+
+- Understood how different JOINs affect query results.
+
+- Improved SQL query writing and debugging.
