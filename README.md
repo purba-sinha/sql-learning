@@ -101,3 +101,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 - Understood how different JOINs affect query results.
 
 - Improved SQL query writing and debugging.
+
+  # Day 16
+- learned about Self join, Cross Join, Subqueries, Common table expressions, Window functions
