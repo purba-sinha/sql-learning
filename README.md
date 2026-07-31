@@ -104,3 +104,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
   # Day 16
 - learned about Self join, Cross Join, Subqueries, Common table expressions, Window functions
+
+  # Day 17
+- practiced same concepts on a kaggle dataset
