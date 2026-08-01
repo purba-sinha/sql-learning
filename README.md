@@ -107,3 +107,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
   # Day 17
 - practiced same concepts on a kaggle dataset
+
+  # Day 18
+- practiced ROW_NUMBER(), RANK(), DENSE_RANK(), NTITLE(), LAG(), LEAD(), Moving averages on a kaggle dataset
