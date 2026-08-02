@@ -113,3 +113,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
   # Day 19
 - learned about set operations such as UNION, UNION ALL, INTERSECT, EXCEPT/MINUS.
+
+  # Day 20
+- learned about data modification such as UPDATE, DELETE, TRUNCATE etc.
