@@ -116,3 +116,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
   # Day 20
 - learned about data modification such as UPDATE, DELETE, TRUNCATE etc.
+
+  # Day 21
+-practiced the same concepts in the kaggle olist dataset
