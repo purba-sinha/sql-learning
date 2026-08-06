@@ -1,27 +1,9 @@
 # SQL Learning Journey
 
 Documenting my daily SQL practice as I learn.
-Currently working through SQLZoo.
-
-## 🛠️ Topics Covered So Far
-
-* ☑ **SELECT Basics**: Core syntax for retrieving data from tables.
-* ☑ **Filtering Data**: `WHERE`, `BETWEEN`, `LIKE`, `IN`, `OR`, `XOR`.
-* ☑ **Pattern Matching / Wildcards**: Searching for specific string patterns using `%` with the `LIKE` operator.
-* ☑ **Data Formatting & Manipulation**: `ROUND()`, `LENGTH()`, `LEFT()` functions.
-* ☑ **Query Modifiers**: `AS` (Aliasing), `DISTINCT`, `ORDER BY` (ASC/DESC).
-* ☑ **Data Grouping & Row Filtering**: `GROUP BY` and the `HAVING` clause.
-* ☑ **Aggregate Functions**: `SUM()`, `COUNT()`, `AVG()`, `MIN()`, `MAX()`.
-* ☑ **Subqueries**: Nested queries (`SELECT` within `SELECT`) and using the `ALL` keyword.
-* ☑ **Correlated Subqueries**: Advanced row-by-row comparisons using multiple table aliases (e.g., `c1`, `c2`) for the same table.
 
 
-## Currently Learning
-- JOIN operations
 
-## Resources
-- SQLZoo
-- HackerRank SQL
 ## Day 3 - Revision
 - Revised all topics covered so far
 - SELECT, WHERE, GROUP BY, Subqueries, 
@@ -122,3 +104,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
   # Day 22
 - learned about DROP, ALTER TABLE, and basics of CONSTRAINTS(NOT NULL).
+
+  # Day 23
+- learned about NOT NULL, UNIQUE, DEFAULT.
