@@ -2,8 +2,6 @@
 
 Documenting my daily SQL practice as I learn.
 
-
-
 ## Day 3 - Revision
 - Revised all topics covered so far
 - SELECT, WHERE, GROUP BY, Subqueries, 
@@ -27,32 +25,23 @@ Documenting my daily SQL practice as I learn.
   * `LIKE '%a'` – Finds values ending with "a".
   * `LIKE '%a%'` – Finds values containing "a" anywhere in the string.
 
-☑ JOIN operations & the `ON` clause
-
-## ⏳ Currently Learning
-* Types of JOINs (LEFT, RIGHT, FULL OUTER)
-* Database normalization and primary/foreign keys
 
 ## Day 6 - Relational Databases & JOIN Operations
-
 * **The Power of Relational Data**: Learned why databases split data into multiple tables to avoid duplication, and how `JOIN` links them back together.
 * **The `JOIN` Syntax**: Mastered combining rows from two or more tables based on a related column between them.
 * **The `ON` Clause**: Learned how to specify the exact matching condition (usually linking a Primary Key to a Foreign Key) to stitch the tables together properly.
   * *Example structure:* `FROM TableA JOIN TableB ON TableA.id = TableB.a_id`
 
-## Day 7 - Revision & Consolidation
-
+# Day 7 - Revision & Consolidation
 * **Focus**: Paused new topics to solidify concepts from the past week.
 * **Review Scope**: Re-practiced writing queries using basic filters (`LIKE`, `%`), aggregations, and nested subqueries.
 
-### Day 8: Joins, Nulls & Numeric Operations
-
+# Day 8: Joins, Nulls & Numeric Operations
 * **Joins:** Mastered `INNER`, `LEFT`, `RIGHT`, and `FULL` joins to merge relational tables.
 * **Null Handling:** Used `IS NULL` / `IS NOT NULL` and `COALESCE()` to handle missing data.
 * **Numeric Functions:** Applied mathematical operations and rounding to format raw data.
-* 
-* # Day 9
-  
+
+# Day 9  
 - Numeric functions help manipulate and format numbers.
 - Window functions perform calculations across rows without collapsing the result set.
 - Difference between RANK() and DENSE_RANK().
@@ -84,26 +73,29 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
 - Improved SQL query writing and debugging.
 
-  # Day 16
+# Day 16
 - learned about Self join, Cross Join, Subqueries, Common table expressions, Window functions
 
-  # Day 17
+# Day 17
 - practiced same concepts on a kaggle dataset
 
-  # Day 18
+# Day 18
 - practiced ROW_NUMBER(), RANK(), DENSE_RANK(), NTITLE(), LAG(), LEAD(), Moving averages on a kaggle dataset
 
-  # Day 19
+# Day 19
 - learned about set operations such as UNION, UNION ALL, INTERSECT, EXCEPT/MINUS.
 
-  # Day 20
+# Day 20
 - learned about data modification such as INSERT, UPDATE, DELETE, TRUNCATE etc.
 
-  # Day 21
+# Day 21
 -practiced the same concepts in the kaggle olist dataset
 
-  # Day 22
+# Day 22
 - learned about DROP, ALTER TABLE, and basics of CONSTRAINTS(NOT NULL).
 
-  # Day 23
+# Day 23
 - learned about NOT NULL, UNIQUE, DEFAULT.
+
+# Day 23
+- practiced the same concepts in the kaggle Olist Dataset.
