@@ -102,3 +102,4 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
 # Day 24
 - revision of DROP, ALTER TABLE ,not null, unique, default.
+- some more questions practice on hackerrank.
