@@ -99,3 +99,6 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
 # Day 23
 - practiced the same concepts in the kaggle Olist Dataset.
+
+# Day 24
+- revision of DROP, ALTER TABLE ,not null, unique, default.
