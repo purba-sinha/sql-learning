@@ -1,20 +1,16 @@
-# SQL Learning Journey
+# SQL Learning 
 
 Documenting my daily SQL practice as I learn.
 
-## Day 3 - Revision
+# Day 3 - Revision
 - Revised all topics covered so far
 - SELECT, WHERE, GROUP BY, Subqueries, 
   Correlated Subqueries, ORDER BY, DISTINCT
 
-## Day 4 - Aggregations & Correlated Subqueries
-
-* Learned how to use `MAX()` and `MIN()` to find extreme values in a dataset.
-* Mastered the `HAVING` clause to filter grouped data where `WHERE` can't be used.
-* Practiced advanced Correlated Subqueries by aliasing the same table (`c1`, `c2`) to perform row-by-row population comparisons within the same continent.
-
-☑ SUM, COUNT, AVG functions
-☑ Pattern Matching / Wildcards (`%`)
+# Day 4 - Aggregations & Correlated Subqueries
+- Learned how to use `MAX()` and `MIN()` to find extreme values in a dataset.
+- Mastered the `HAVING` clause to filter grouped data where `WHERE` can't be used.
+- Practiced advanced Correlated Subqueries by aliasing the same table (`c1`, `c2`) to perform row-by-row population comparisons within the same continent.
 
 ## Day 5 - Aggregate Functions & Wildcard Searching
 
