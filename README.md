@@ -22,15 +22,15 @@ Documenting my daily SQL practice as I learn.
   * `LIKE '%a%'` – Finds values containing "a" anywhere in the string.
 
 
-## Day 6 - Relational Databases & JOIN Operations
-* **The Power of Relational Data**: Learned why databases split data into multiple tables to avoid duplication, and how `JOIN` links them back together.
-* **The `JOIN` Syntax**: Mastered combining rows from two or more tables based on a related column between them.
-* **The `ON` Clause**: Learned how to specify the exact matching condition (usually linking a Primary Key to a Foreign Key) to stitch the tables together properly.
-  * *Example structure:* `FROM TableA JOIN TableB ON TableA.id = TableB.a_id`
+# Day 6 - Relational Databases & JOIN Operations
+- The Power of Relational Data**: Learned why databases split data into multiple tables to avoid duplication, and how `JOIN` links them back together.
+- The `JOIN` Syntax**: Mastered combining rows from two or more tables based on a related column between them.
+- The `ON` Clause**: Learned how to specify the exact matching condition (usually linking a Primary Key to a Foreign Key) to stitch the tables together properly.
+- Example structure:* `FROM TableA JOIN TableB ON TableA.id = TableB.a_id`
 
 # Day 7 - Revision & Consolidation
-* **Focus**: Paused new topics to solidify concepts from the past week.
-* **Review Scope**: Re-practiced writing queries using basic filters (`LIKE`, `%`), aggregations, and nested subqueries.
+- Focus**: Paused new topics to solidify concepts from the past week.
+- Review Scope**: Re-practiced writing queries using basic filters (`LIKE`, `%`), aggregations, and nested subqueries.
 
 # Day 8: Joins, Nulls & Numeric Operations
 * **Joins:** Mastered `INNER`, `LEFT`, `RIGHT`, and `FULL` joins to merge relational tables.
