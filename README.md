@@ -102,3 +102,8 @@ today's focus was on SQL JOIN operations. Practiced writing queries using INNER 
 
 # Day 25
 - questions practice on Hackerrank.
+- 
+
+- Quizzes Completed: Knocked out 2 SQL quizzes to test my understanding of foundational concepts and subqueries.
+- Basic Aggregations: Mastered how to use `SUM()`, `COUNT()`, and `AVG()` to calculate totals, tallies, and averages across datasets.
+- Wildcard Filtering (`%`): Learned how to use the `LIKE` operator with the `%` wildcard to search for flexible text patterns:
